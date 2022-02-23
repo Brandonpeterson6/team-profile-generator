@@ -1,6 +1,5 @@
 const Manager = require('../lib/Manager.js')//import employee
 
-//IMPORTANT NOTE - Manger is what will be called in the final file that builds the HTML, so DO NOT try to make it part of the array. This of it like an object ID
 
 
 test('create a manager object', () =>{

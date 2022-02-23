@@ -158,7 +158,7 @@ const makeEngineer = function() {
                   }
     
             })
-            //NOTE!!! below used => because .then(function({name}) would create a new scope so the current enemy consol log wont work
+            
             .then(({role}) => {
 
                 if (role == 'Intern'){
@@ -190,7 +190,7 @@ const makeEngineer = function() {
                 return
             }
             else{
-                copyFile(writeFile(generatePage(teamARR)))//Note, make more modular if have time using promises
+                copyFile(writeFile(generatePage(teamARR)))
                 console.log('_______________________________________________________')
                 console.log('file should be written')
                 return
