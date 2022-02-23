@@ -2,7 +2,7 @@
 ## DESCRIPTION
 This app asks the user questions about the team members information and creates an html file with all the info.
 ## SCREENSHOT
-![Alt image](/Screenshot (18).png?raw=true)
+![alt image](/Screenshot.png?raw=true)
 
 ## ACCEPTANCE CRITERIA
 * GIVEN a command-line application that accepts user input
@@ -24,3 +24,4 @@ This app asks the user questions about the team members information and creates 
 * THEN I exit the application, and the HTML is generated
 
 ## DEMO VIDEO
+https://vimeo.com/680694788 
